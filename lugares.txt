@@ -1,0 +1,10 @@
+alcoba
+hospital
+cocina
+cascada
+terraza
+patio
+piscina
+parque
+coliseo
+universidad
